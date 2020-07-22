@@ -1,1 +1,0 @@
-# KartuStudiMahasiswa---Apnan-Jessi
