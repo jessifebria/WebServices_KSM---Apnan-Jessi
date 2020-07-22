@@ -1,0 +1,7 @@
+com\mccoc\webservice\services\KsmRestService$1.class
+com\mccoc\webservice\entities\ksm.class
+com\mccoc\webservice\controllers\KsmRestControllerClient.class
+com\mccoc\webservice\services\KsmRestService.class
+com\mccoc\webservice\entities\mahasiswa.class
+com\mccoc\webservice\entities\Matkul.class
+com\mccoc\webservice\WebserviceApplication.class
